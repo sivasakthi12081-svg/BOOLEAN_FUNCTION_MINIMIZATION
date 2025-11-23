@@ -40,14 +40,15 @@ Developed by:Sivasakthi S RegisterNumber:25017123*/
 
 
 **RTL realization**
-<img width="797" height="965" alt="Screenshot 2025-11-23 230757" src="https://github.com/user-attachments/assets/acadbba6-4255-4973-be7c-b6cf3873a8ae" />
 
 **Output:**
 
+<img width="797" height="965" alt="Screenshot 2025-11-23 230757" src="https://github.com/user-attachments/assets/acadbba6-4255-4973-be7c-b6cf3873a8ae" />
 **RTL**
-<img width="1919" height="432" alt="Screenshot 2025-11-23 231041" src="https://github.com/user-attachments/assets/7c5ffd24-eebf-4589-86a6-f73a9f627b0e" />
 
 **Timing Diagram**
+
+<img width="1919" height="432" alt="Screenshot 2025-11-23 231041" src="https://github.com/user-attachments/assets/a62f7818-f009-433e-9692-af79094ae82a" />
 
 **Result:**
 
